@@ -59,8 +59,6 @@ Melissa:Vídeos e fontes de mídia
 
 Data: 16/06/2026.
 
-Ausentes: Beatriz  Costa 
-
 Coordenador(a): Beatriz Gomes.
 
 Secretário(a) e responsável pelo GitHub: Julio César da SIlva Kubiack
@@ -85,6 +83,27 @@ a aluna: Beatriz Gomes está a faznedo os textos e buscando modelos de wireframe
 
 ---
 
+## Trabalho do prof. Mehran Projeto Integrador.  4
 
+Data: 23/06/2026.
 
+Coordenador(a): Beatriz Gomes.
+
+Secretário(a) e responsável pelo GitHub: Julio César da SIlva Kubiack
+
+Assunto: figma e index.html
+
+**faltantes: Beatriz Costa Passeio escolar**
+
+Responsabilidades:
+
+Julio Kubiack: figma e index.html
+
+Beatriz Gomes dos santos:figma
+
+Isabela Luiza Maciel: figma
+
+Melissa: figma
+
+---
 
