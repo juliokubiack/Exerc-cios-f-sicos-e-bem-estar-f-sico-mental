@@ -89,7 +89,7 @@ Data: 23/06/2026.
 
 Coordenador(a): Beatriz Gomes.
 
-Secretário(a) e responsável pelo GitHub: Julio César da SIlva Kubiack
+Secretário(a) e responsável pelo GitHub: Julio César da Silva Kubiack
 
 Assunto: figma e index.html
 
@@ -107,4 +107,27 @@ Melissa: figma
 
 ---
 
-jddjjddjd
+
+## Trabalho do prof. Mehran Projeto Integrador.  5
+
+Data: 30/06/2026.
+
+Coordenador(a): Beatriz Gomes.
+
+Secretário(a) e responsável pelo GitHub: Julio César da Silva Kubiack
+
+Assunto: figma e index.html
+
+**faltantes: Beatriz Costa  não sabemos**
+
+Responsabilidades:
+
+Julio Kubiack: Git Hab
+
+Beatriz Gomes dos santos:figma/Páginas
+
+Isabela Luiza Maciel: figma/Páginas
+
+Melissa: figma/Páginas
+
+---
