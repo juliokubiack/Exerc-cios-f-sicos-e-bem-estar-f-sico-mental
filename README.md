@@ -130,8 +130,24 @@ Isabela Luiza Maciel: figma/Páginas
 
 Melissa: figma/Páginas
 
---- 
+---
+## Trabalho do prof. Mehran Projeto Integrador.  6
 
-bom dia pessoalll tudo bem 
+Data: /2026.
 
-como você esta Lucas ??
+Coordenador(a): Beatriz Gomes.
+
+Secretário(a) e responsável pelo GitHub: Julio César da Silva Kubiack
+
+Assunto: 
+
+Responsabilidades:
+
+Julio Kubiack: Git Hab
+
+Beatriz Gomes dos santos:
+
+Isabela Luiza Maciel: 
+
+Melissa:
+
